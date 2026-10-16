@@ -1,0 +1,25 @@
+# Vivado generated files
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.zip
+
+# Vivado build/output directories
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+
+# Generated hardware outputs
+*.bit
+*.bin
+*.mcs
+*.ltx
+
+# OS/editor files
+.DS_Store
+.vscode/
